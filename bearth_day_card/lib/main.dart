@@ -10,7 +10,7 @@ class BirthdayCard extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(appBar: AppBar(
           backgroundColor: Colors.orange,
-          title: Text('My Card'),
+          title: Text('My Card00'),
         ),
         backgroundColor: Color(0xFFD2BCD5),
         body: Center(
